@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirimicvl&show_icons=true&theme=transparent)
+![Jere's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirimicvl&show_icons=true&theme=transparent)
 
 ## Available Scripts
 

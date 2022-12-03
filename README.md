@@ -8,6 +8,10 @@
 #### <a href="https://license-search.netlify.app">License Search App</a>
 #### <a href="https://bg-colour-picker-v2.netlify.app">Background change App</a>
 #### <a href="https://mrjayssimplecounterapp.netlify.app/">Simple Counter App</a>
+#### <a href="https://mrjayssimplecounterreduxapp.netlify.app/">Simple Counter (Redux) App</a>
+
+
+
 
 
 

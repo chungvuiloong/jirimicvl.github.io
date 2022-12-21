@@ -1,7 +1,7 @@
 ## Portfolio of Chung Vui Loong (Famously known as Jere)
 
 ### 2022
-#### <a href="https://lianatechnologylandingpage.vercel.app/">LandingApp</a>
+#### <a href="https://lianatechnologylandingpage.vercel.app/">Landing page</a>
 #### <a href="https://mrjaytravelapp.netlify.app/">Travel App</a>
 #### <a href="https://countries-basic.vercel.app">Countries App</a>
 #### <a href="https://mrjay-portfolio.netlify.app">Parallex Website</a>

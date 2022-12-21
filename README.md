@@ -2,6 +2,7 @@
 
 ### 2022
 
+#### <a href="https://rss-feed-navy.vercel.app">RSS Feed - Liana Technologies</a> - Made by Feednami, HTML, CSS, Bootstrap, Javascript
 #### <a href="https://parallax-midnight.vercel.app">Parallex Midnight</a> - Made by HTML, CSS, Bootstrap, Javascript
 #### <a href="https://parallax-carousel-company.vercel.app/">Parallex Carousel Company name</a> - Made by HTML, CSS, Bootstrap, Javascript
 #### <a href="https://lianatechnologylandingpage.vercel.app/">Landing page</a> - Made by HTML, CSS, Bootstrap, Javascript

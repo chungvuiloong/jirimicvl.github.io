@@ -1,6 +1,7 @@
 ## Portfolio of Chung Vui Loong (Famously known as Jere)
 
 ### 2022
+#### <a href="https://parallax-carousel-company.vercel.app/">Parallex Carousel Company name</a> - Made by HTML, CSS, Bootstrap, Javascript
 #### <a href="https://lianatechnologylandingpage.vercel.app/">Landing page</a> - Made by HTML, CSS, Bootstrap, Javascript
 #### <a href="https://mrjaytravelapp.netlify.app/">Travel App</a> - Made by Material UI, React, Redux, Javascript, RESTful API, CSS, HTML
 #### <a href="https://countries-basic.vercel.app">Countries App</a> - Made by Redux, React, Javascript, RESTful API, CSS, HTML

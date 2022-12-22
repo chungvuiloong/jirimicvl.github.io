@@ -8,7 +8,12 @@
 #### <a href="https://lianatechnologylandingpage.vercel.app/">Landing page</a> - Made by HTML, CSS, Bootstrap, Javascript
 #### <a href="https://mrjaytravelapp.netlify.app/">Travel App</a> - Made by Material UI, React, Redux, Javascript, RESTful API, CSS, HTML
 #### <a href="https://countries-basic.vercel.app">Countries App</a> - Made by Redux, React, Javascript, RESTful API, CSS, HTML
-#### <a href="https://mrjay-portfolio.netlify.app">Parallex Website</a> - Made by HTML, CSS, Javascript 
+#### <a href="https://mrjay-portfolio.netlify.app">Parallex Portfolio Website</a> - Made by HTML, CSS, Javascript
+- a form that validates your info.
+- parrallex effect hero banner.
+- my previous projects.
+- Facebook chat plugin (works with Google Chrome & Mozilla Firefox).
+
 #### <a href="https://mrjay-speedgame.netlify.app">Speedgame</a> - Made by React, Javascript, CSS, HTML
 #### <a href="https://license-search.netlify.app">License Search App</a> - Made by Javascript, CSS, HTML
 #### <a href="https://bg-colour-picker-v2.netlify.app">Background change App</a> - Made by Javascript, CSS, HTML

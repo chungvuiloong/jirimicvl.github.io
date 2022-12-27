@@ -9,7 +9,6 @@
 
 #### **Tools & Technologies** used:
 Feednami, ![RSS](https://img.shields.io/badge/RSS-FFA500?style=flat-square&logo=rss&logoColor=white), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
 <br/>
 
 ### Parallex Midnight
@@ -20,12 +19,28 @@ Feednami, ![RSS](https://img.shields.io/badge/RSS-FFA500?style=flat-square&logo=
 
 #### **Tools & Technologies** used:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br/>
 
+### Parallex Carousel Company name 
+- Practice project using a carousel parallex to beautify a site.
+- Learned and followed a parallax effect youtube tutorial source unkown
+- **Github link** - https://github.com/jirimicvl/parallax_carousel_company
+- **Project deployed** via <a href="https://parallax-carousel-company.vercel.app/">vercel</a> - https://parallax-carousel-company.vercel.app/
 
+#### **Tools & Technologies** used:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br/>
 
+### Landing page with RSS Feed
+- This is a simple landing page for Liana Technologies.
+- Participants are to make a site similar to the given image by Liana Technologies.
+- **Github link** - https://github.com/jirimicvl/landingpage
+- **Project deployed** via <a href="https://lianatechnologylandingpage.vercel.app/">vercel</a> - https://lianatechnologylandingpage.vercel.app/
 
-#### <a href="https://parallax-carousel-company.vercel.app/">Parallex Carousel Company name</a> - Made by ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-#### <a href="https://lianatechnologylandingpage.vercel.app/">Landing page with RSS Feed</a> - Made by ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), ![RSS](https://img.shields.io/badge/RSS-FFA500?style=flat-square&logo=rss&logoColor=white)
+#### **Tools & Technologies** used:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), ![RSS](https://img.shields.io/badge/RSS-FFA500?style=flat-square&logo=rss&logoColor=white)
+<br/>
+
 #### <a href="https://mrjaytravelapp.netlify.app/">Travel App</a> - Made by ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB), ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), RESTful API, ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 #### <a href="https://countries-basic.vercel.app">Countries App</a> - Made by ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), RESTful API, ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 #### <a href="https://mrjay-portfolio.netlify.app">Parallex Portfolio Website</a> - Made by ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)

@@ -54,7 +54,7 @@ Feednami, ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&l
 RESTful API, ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB), ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 <br/>
 
-#### Countries App
+### Countries App
 - This project was created in React Advanced class, of React22K intake, in Business College Helsinki.
 - It has a homepage and a countries page.
 - The countries page display data of countries.
@@ -66,11 +66,18 @@ RESTful API, ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?sty
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), RESTful API, ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 <br/>
 
-#### <a href="https://mrjay-portfolio.netlify.app">Parallex Portfolio Website</a> - Made by ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- a form that validates your info.
+### Parallex Portfolio Website 
+- This project was created in HTML & CSS class, of React22K intake, in Business College Helsinki.
+- Reused some components from previous projects.
+- A form that validates your info.
 - parrallex effect hero banner.
 - my previous projects.
 - Facebook chat plugin (works with Google Chrome & Mozilla Firefox).
+- **Github link** - https://github.com/jirimicvl/portfolio2022/
+- **Project deployed** via <a href="https://mrjay-portfolio.netlify.app">Netlify</a> - https://mrjay-portfolio.netlify.app
+
+#### **Tools & Technologies** used:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 #### <a href="https://mrjay-speedgame.netlify.app">Speedgame</a> - Made by ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 #### <a href="https://license-search.netlify.app">License Search App</a> - Made by ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

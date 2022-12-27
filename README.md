@@ -41,7 +41,7 @@ Feednami, ![RSS](https://img.shields.io/badge/RSS-FFA500?style=flat-square&logo=
 Feednami, ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), ![RSS](https://img.shields.io/badge/RSS-FFA500?style=flat-square&logo=rss&logoColor=white)
 <br/>
 
-#### Travel App
+### Travel App
 - Took a basic country app template which was further improved and added advanced features.
 - Geo tracking of current country.
 - Displays data of all countries.
@@ -54,7 +54,18 @@ Feednami, ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&l
 RESTful API, ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB), ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 <br/>
 
-#### <a href="https://countries-basic.vercel.app">Countries App</a> - Made by ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), RESTful API, ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+#### Countries App
+- This project was created in React Advanced class, of React22K intake, in Business College Helsinki.
+- It has a homepage and a countries page.
+- The countries page display data of countries.
+- When user clicks on the country it will navigate individual country page which displays details of the country.
+- **Github link** - https://github.com/jirimicvl/countriesBasic/
+- **Project deployed** via <a href="https://countries-basic.vercel.app">Vercel</a> - https://countries-basic.vercel.app
+
+#### **Tools & Technologies** used:
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), RESTful API, ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<br/>
+
 #### <a href="https://mrjay-portfolio.netlify.app">Parallex Portfolio Website</a> - Made by ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - a form that validates your info.
 - parrallex effect hero banner.

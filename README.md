@@ -41,7 +41,19 @@ Feednami, ![RSS](https://img.shields.io/badge/RSS-FFA500?style=flat-square&logo=
 Feednami, ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), ![RSS](https://img.shields.io/badge/RSS-FFA500?style=flat-square&logo=rss&logoColor=white)
 <br/>
 
-#### <a href="https://mrjaytravelapp.netlify.app/">Travel App</a> - Made by ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB), ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), RESTful API, ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+#### Travel App
+- Took a basic country app template which was further improved and added advanced features.
+- Geo tracking of current country.
+- Displays data of all countries.
+- Displays data specific to a certain country.
+- Fetches data from 5 separate API and displays data accordingly to their respective components.
+- **Github link** - https://github.com/jirimicvl/travelapp/
+- **Project deployed** via <a href="https://mrjaytravelapp.netlify.app/">Netlify</a> - https://mrjaytravelapp.netlify.app/
+
+#### **Tools & Technologies** used:
+RESTful API, ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB), ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<br/>
+
 #### <a href="https://countries-basic.vercel.app">Countries App</a> - Made by ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), RESTful API, ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 #### <a href="https://mrjay-portfolio.netlify.app">Parallex Portfolio Website</a> - Made by ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - a form that validates your info.

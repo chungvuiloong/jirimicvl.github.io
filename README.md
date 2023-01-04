@@ -7,7 +7,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=flat-square&logo=gitpod&logoColor=#FFAE33)
 ![AstraDB](https://img.shields.io/badge/-AstraDB-grey?style=flat-square)
-- ![Github](https://img.shields.io/badge/Github-20232A?style=flat-square&logo=github&logoColor=white) - https://github.com/jirimicvl/todoapp_blazor_csharp/
+- ![Github](https://img.shields.io/badge/Github-20232A?style=flat-square&logo=github&logoColor=white) - https://github.com/jirimicvl/workshop-graphql-netflix
+- - **Project deployed** via <a href="https://mrjaysnetlifyclone.netlify.app">Netlify</a> - https://mrjaysnetlifyclone.netlify.app
 <br/>
 
 ### Todoapp  ( blazor & C# )

@@ -2,6 +2,13 @@
 
 ## 2022
 
+### Netflix Clone  ( React, Gitpod, GraphQL & AstraDB )
+![Tools & Technologies](https://img.shields.io/badge/-Tools%20%26%20Technologies-grey?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=flat-square&logo=gitpod&logoColor=#FFAE33)
+![AstraDB](https://img.shields.io/badge/-AstraDB-grey?style=flat-square)
+- ![Github](https://img.shields.io/badge/Github-20232A?style=flat-square&logo=github&logoColor=white) - https://github.com/jirimicvl/todoapp_blazor_csharp/
+<br/>
 
 ### Todoapp  ( blazor & C# )
 ![Tools & Technologies](https://img.shields.io/badge/-Tools%20%26%20Technologies-grey?style=flat-square)

@@ -1,5 +1,13 @@
-# Portfolio of Chung Vui Loong (Famously known as Jere)
+<html>
+ <header>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+ </header>
+ <body>
+
+
+# Portfolio of Chung Vui Loong (Famously known as Jere)
 ## 2022
 
 ### Netflix Clone  ( React, Gitpod, GraphQL & AstraDB )
@@ -155,5 +163,7 @@
 #### <a href="https://mrjay-elusive-button.netlify.app">Elusive Button</a> - Made by ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 #### <a href="https://mrjayintegrifyassignment.netlify.app/">Profile Cards, an assignment for Integrify</a> - Made by ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), RESTful API, ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
+ </body>
+</html>
 
 

@@ -132,7 +132,7 @@
 - Displays data specific to a certain country.
 - Fetches data from 5 separate API and displays data accordingly to their respective components.
 - ![Github](https://img.shields.io/badge/Github-20232A?style=flat-square&logo=github&logoColor=white) - https://github.com/jirimicvl/travelapp/
-- **Project deployed** via <a href="https://mrjaytravelapp.netlify.app/">Netlify</a> - https://mrjaytravelapp.netlify.app/
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/5036e497-9e95-4fc1-87a7-acdeaf33658c/deploy-status)](https://app.netlify.com/sites/mrjaytravelapp/deploys) - https://mrjaytravelapp.netlify.app/
 <br/>
 
 ### Countries App

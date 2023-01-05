@@ -44,8 +44,10 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - A simple counter app using recoil state management
 - Used useRecoilState to transfer state to components 
+  
 ![Github](https://img.shields.io/badge/Github-20232A?style=flat-square&logo=github&logoColor=white) - https://github.com/jirimicvl/counterapp_recoil
-Deployed via ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) - https://mrjayscounterapp-recoil.vercel.app
+
+  Deployed via ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) - https://mrjayscounterapp-recoil.vercel.app
  <br/>
   
 ### userlist_fullstack (CRUD) (react & java) 

@@ -1,12 +1,3 @@
-<html>
- <header>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
- </header>
- <body>
-
-
 # Portfolio of Chung Vui Loong (Famously known as Jere)
 ## 2022
 

@@ -1,7 +1,7 @@
 # Portfolio of Chung Vui Loong (Famously known as Jere)
 ## 2022
 
-### Netflix Clone  ( React, Gitpod, GraphQL & AstraDB )
+<h1> Netflix Clone  ( React, Gitpod, GraphQL & AstraDB )</h1>
 ![Tools & Technologies](https://img.shields.io/badge/-Tools%20%26%20Technologies-grey?style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=flat-square&logo=gitpod&logoColor=#FFAE33)

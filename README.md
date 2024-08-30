@@ -1,4 +1,4 @@
-# Portfolio of Chung Vui Loong (Famously known as Jere)
+# Portfolio of Chung Vui Loong (Jere)
 ## 2022
 
 ### Netflix Clone  ( React, Gitpod, GraphQL & AstraDB )
